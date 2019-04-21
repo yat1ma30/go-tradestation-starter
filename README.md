@@ -8,7 +8,7 @@ This is just a simple example.
 
 ## Env
 
-* Windows 10
+* Windows 10 64-bit
 * TradeStation 9.5
 * gcc 5.1.0 (tdm-1)
   * http://tdm-gcc.tdragon.net/download
