@@ -1,0 +1,3 @@
+LIBRARY example.dll
+EXPORTS
+CalcDouble = _CalcDouble
